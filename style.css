@@ -6,6 +6,6 @@ h2 {
 }
 
 h3 {
-   border-bottom: 1px solid #808080;
+   border-bottom: dotted 1px #808080;
    width:100%;
 }
